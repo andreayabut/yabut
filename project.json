@@ -1,12 +1,12 @@
 [
 {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "name": "P&M Final Option Beach Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/64/f6/f6/p-m-final-option-beach.jpg",
     "price": 164,
     "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "lat": 16.679442,
+    "lng": 120.336828
   },
   {
     "id": 148,
