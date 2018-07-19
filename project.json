@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Camp Avenue",
+    "imageUrl": "http://restdayadventures.com/wp-content/uploads/2018/03/LRM_EXPORT_20180320_210926.jpg",
+    "price": 16,
+    "priceCurrency": "Php",
+    "lat":  16.695801,
+    "lng": 120.335624
   },
   {
     "id": 211,
