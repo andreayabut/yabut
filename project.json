@@ -19,12 +19,12 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Kahuna Beach Resort",
+    "imageUrl": "http://www.kahunaresort.com/images/slider/slider-03.png",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.658744,
+    "lng": 120.321657
   },
   {
     "id": 205,
