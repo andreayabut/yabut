@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Awesome Hotel",
     "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/339/33963392.jpg",
-    "price": 200,
+    "price": 15,
     "priceCurrency": "Php",
     "lat": 16.679266,
     "lng": 120.336576
@@ -21,19 +21,19 @@
     "id": 201,
     "name": "Kahuna Beach Resort",
     "imageUrl": "http://www.kahunaresort.com/images/slider/slider-03.png",
-    "price": 150,
-    "priceCurrency": "EUR",
+    "price": 13,
+    "priceCurrency": "Php",
     "lat": 16.658744,
     "lng": 120.321657
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "name": "Flotsam and Jetsam Artist Beach Hostel",
+    "imageUrl": "https://lh3.googleusercontent.com/UaXZVcjC3Qxqz1RsUSnIV-6arpXUji-JGMdHhPMTvkkKMyit2_N3C4nwdGCAm8YMItbY_lRsKYdIXxoOpfmfCb9WtDR6FlyDxpQN0x4dYisBvYjjU6k6CCKgZOSHOkF0YGbkhWrTgFdJZgtQU7bizCAS2KmLuN7z-MW7iOELoJH_IkLWtXTou6linJaqp1o6Z3a-2akcxF6aXMxb_0pB3qKEj-X7TwNSWTLJ8Yrnuf6fMR2otLeBuJuPLvCB5B2ZWZHIrEuWzAEN0OcmWxr5RIwcOXm42WnWvSistgmmLMVi5-G_Q0P-RnG9Dsyc5fo2cCsK_HXTakrzMuvjKqujzGCynGm733Hqzy6T0qpZgQLfksVCXeUBExV5wjdCUSnq16nAbJuPy64X0bc2FBurQXOymkGp0GR8o04owXXq96UHw6yispC8_5QcteotqKRLYmN-BuT_Ok2vG8TTDAT2GwuZu1g-Jfdu6QerLwWK6rzT6VqzEXmTSNzNev36H7tjJcLf-1LKPTWFbNko5jaOoUhnmsKibZC5Ek-xZ_DwM-9RBxcmJPfL-mZGcS3J1F8fhFQPuvLUeOePVUlPxQNn3_s3zTwAe7a-VRaQiWZROPCdTi1kkXCjOptLZGv_AwL0ln2mAWg_fO9uc31G6-Ki2J55owEHx_QzjQ=w993-h662-no",
+    "price": 10,
+    "priceCurrency": "Php",
+    "lat": 16.662120,
+    "lng": 120.324494
   },
   {
     "id": 210,
