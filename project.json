@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
+    "name": "San Juan Surf Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/c6/d4/79/san-juan-surf-resort.jpg",
+    "price": 8,
+    "priceCurrency": "Php",
     "lat": 48.827855,
-    "lng": 2.350774
+    "lng": 120.320291
   }
 ]
