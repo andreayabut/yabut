@@ -71,5 +71,14 @@
     "priceCurrency": "Php",
     "lat": 16.637262,
     "lng": 120.311958
+  },
+   {
+    "id": 214,
+    "name": "PUGAD",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b9/67/c2/pugad-adventure-la-union.jpg",
+    "price": 60,
+    "priceCurrency": "Php",
+    "lat": 16.336963,
+    "lng": 120.478826
   }
 ]
