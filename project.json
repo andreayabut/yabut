@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Awesome Hotel",
-    "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/339/33963392.jpg",
-    "price": 15,
+    "name": "Tangadan Falls",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/TangadanFalls_00.jpg",
+    "price": 35,
     "priceCurrency": "Php",
-    "lat": 16.679266,
-    "lng": 120.336576
+    "lat": 16.643866,
+    "lng": 120.448737
   },
   {
     "id": 201,
