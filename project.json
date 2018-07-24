@@ -55,12 +55,21 @@
     "lng": 120.322376
   },
    {
-    "id": 211,
+    "id": 212,
     "name": "Thunderbird Resort",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
     "price": 50,
     "priceCurrency": "Php",
     "lat": 16.609236,
     "lng": 120.286314
+  },
+   {
+    "id": 213,
+    "name": "The Food Project",
+    "imageUrl": "https://cdn1.clickthecity.com/images/articles/content/5b10c43a14e1b4.88343431.jpg",
+    "price": 11,
+    "priceCurrency": "Php",
+    "lat": 16.637262,
+    "lng": 120.311958
   }
 ]
