@@ -98,5 +98,33 @@
     "priceCurrency": "Php",
     "lat": 16.621596,
     "lng": 120.317574
+  },
+   {
+    "id": 217,
+    "name": "Mt. Puraw",
+    "imageUrl": "https://pbs.twimg.com/media/DLr1r6iUQAE-pvt.jpg",
+    "price": 30,
+    "priceCurrency": "Php",
+    "lat": 16.513972,
+    "lng": 120.357230
+  },
+   {
+    "id": 218,
+    "name": "Bacsil Ridge",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347603025fIchpjb2.jpg",
+    "price": 30,
+    "priceCurrency": "Php",
+    "lat": 16.618638, 
+    "lng": 120.363223
+  },
+   {
+    "id": 219,
+    "name": "BOLONG's",
+    "imageUrl": "https://ton.twitter.com/1.1/ton/data/dm/1019834697164062725/1019834691149488129/k88qAXmX.jpg:large",
+    "price": 10,
+    "priceCurrency": "Php",
+    "lat": 16.681888,
+    "lng": 120.340241
   }
+    
 ]
