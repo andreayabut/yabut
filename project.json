@@ -19,40 +19,41 @@
   },
   {
     "id": 201,
-    "name": "Kahuna Beach Resort",
-    "imageUrl": "http://www.kahunaresort.com/images/slider/slider-03.png",
-    "price": 13,
+    "name": "Pebble Beach",
+    "imageUrl": "http://tupanggala.com/wp-content/uploads/2014/08/LunaBeach02.jpg",
+    "price": 25,
     "priceCurrency": "Php",
-    "lat": 16.658744,
-    "lng": 120.321657
+    "lat": 16.839470,
+    "lng": 120.338160
   },
   {
     "id": 205,
-    "name": "Flotsam and Jetsam Artist Beach Hostel",
-    "imageUrl": "https://lh3.googleusercontent.com/UaXZVcjC3Qxqz1RsUSnIV-6arpXUji-JGMdHhPMTvkkKMyit2_N3C4nwdGCAm8YMItbY_lRsKYdIXxoOpfmfCb9WtDR6FlyDxpQN0x4dYisBvYjjU6k6CCKgZOSHOkF0YGbkhWrTgFdJZgtQU7bizCAS2KmLuN7z-MW7iOELoJH_IkLWtXTou6linJaqp1o6Z3a-2akcxF6aXMxb_0pB3qKEj-X7TwNSWTLJ8Yrnuf6fMR2otLeBuJuPLvCB5B2ZWZHIrEuWzAEN0OcmWxr5RIwcOXm42WnWvSistgmmLMVi5-G_Q0P-RnG9Dsyc5fo2cCsK_HXTakrzMuvjKqujzGCynGm733Hqzy6T0qpZgQLfksVCXeUBExV5wjdCUSnq16nAbJuPy64X0bc2FBurQXOymkGp0GR8o04owXXq96UHw6yispC8_5QcteotqKRLYmN-BuT_Ok2vG8TTDAT2GwuZu1g-Jfdu6QerLwWK6rzT6VqzEXmTSNzNev36H7tjJcLf-1LKPTWFbNko5jaOoUhnmsKibZC5Ek-xZ_DwM-9RBxcmJPfL-mZGcS3J1F8fhFQPuvLUeOePVUlPxQNn3_s3zTwAe7a-VRaQiWZROPCdTi1kkXCjOptLZGv_AwL0ln2mAWg_fO9uc31G6-Ki2J55owEHx_QzjQ=w993-h662-no",
-    "price": 10,
+    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
+    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_luna_church_betty_tianco.jpg",
+    "price": 30,
     "priceCurrency": "Php",
-    "lat": 16.662120,
-    "lng": 120.324494
+    "lat": 16.853622,
+    "lng": 120.376583
+     
   },
   {
     "id": 210,
-    "name": "Camp Avenue",
-    "imageUrl": "http://restdayadventures.com/wp-content/uploads/2018/03/LRM_EXPORT_20180320_210926.jpg",
-    "price": 16,
+    "name": "Immuki Island",
+    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
+    "price": 30,
     "priceCurrency": "Php",
-    "lat":  16.695801,
-    "lng": 120.335624
+    "lat": 16.803158,
+    "lng": 120.325490
   },
   {
     "id": 211,
-    "name": "San Juan Surf Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/c6/d4/79/san-juan-surf-resort.jpg",
-    "price": 8,
+    "name": "El Union",
+    "imageUrl": "hhttps://theweekendgypsy.files.wordpress.com/2016/04/img_9530.jpg",
+    "price": 15,
     "priceCurrency": "Php",
-    "lat": 16.657274,
-    "lng": 120.320227
-  }
+    "lat": 16.659886,
+    "lng": 120.322376
+  },
    {
     "id": 211,
     "name": "Thunderbird Resort",
