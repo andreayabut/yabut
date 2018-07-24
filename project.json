@@ -1,12 +1,12 @@
 [
 {
     "id": 145,
-    "name": "P&M Final Option Beach Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/64/f6/f6/p-m-final-option-beach.jpg",
+    "name": "ElYu Surf Town",
+    "imageUrl": "https://jethrosalamo.files.wordpress.com/2018/02/img_3997.jpg?w=816",
     "price": 15,
     "priceCurrency": "Php",
-    "lat": 16.679442,
-    "lng": 120.336828
+    "lat": 16.657892,
+    "lng": 120.320865
   },
   {
     "id": 148,
@@ -50,7 +50,16 @@
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/c6/d4/79/san-juan-surf-resort.jpg",
     "price": 8,
     "priceCurrency": "Php",
-    "lat": 48.827855,
-    "lng": 120.320291
+    "lat": 16.657274,
+    "lng": 120.320227
+  }
+   {
+    "id": 211,
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
+    "price": 50,
+    "priceCurrency": "Php",
+    "lat": 16.609236,
+    "lng": 120.286314
   }
 ]
