@@ -80,5 +80,23 @@
     "priceCurrency": "Php",
     "lat": 16.336963,
     "lng": 120.478826
+  },
+   {
+    "id": 215,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
+    "price": 18,
+    "priceCurrency": "Php",
+    "lat": 16.588428,
+    "lng": 120.314684
+  },
+   {
+    "id": 216,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "http://machotemple.org/wp-content//gallery//exterior/frontview.jpg",
+    "price": 10,
+    "priceCurrency": "Php",
+    "lat": 16.621596,
+    "lng": 120.317574
   }
 ]
