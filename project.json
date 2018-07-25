@@ -92,33 +92,42 @@
   },
    {
     "id": 216,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "http://machotemple.org/wp-content//gallery//exterior/frontview.jpg",
-    "price": 10,
+    "name": "Siargao",
+    "imageUrl": "https://static1lonelyplanetes.cdnstatics.com/sites/default/files/styles/max_650x650/public/imprescindibles_images/Filipinas_Siargao_GettyRF_486965829_John%20Seaton%20Callahan_Getty%20Images.jpg?itok=M8VUNyNW",
+    "price": 15026,
     "priceCurrency": "Php",
-    "lat": 16.621596,
-    "lng": 120.317574
+    "lat": 9.868890,
+    "lng": 126.042872
   },
    {
     "id": 217,
-    "name": "Mt. Puraw",
-    "imageUrl": "https://pbs.twimg.com/media/DLr1r6iUQAE-pvt.jpg",
-    "price": 30,
+    "name": "Mt. Pulag",
+    "imageUrl": "http://4.bp.blogspot.com/-Adwp6utGPkE/Vl6uO_3Y4_I/AAAAAAAADT8/R_xH1VD7dV8/s1600/20151101_061259.jpg",
+    "price": 375,
     "priceCurrency": "Php",
-    "lat": 16.513972,
-    "lng": 120.357230
+    "lat": 16.598528,
+    "lng": 120.898952
   },
    {
     "id": 218,
-    "name": "Bacsil Ridge",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347603025fIchpjb2.jpg",
-    "price": 30,
+    "name": "10,000 Roses Cafe",
+    "imageUrl": "http://s3-ap-southeast-1.amazonaws.com/tz-mag-ph/wp-content/uploads/2017/02/04204530/10000-roses-cafe.png",
+    "price": 9035,
     "priceCurrency": "Php",
-    "lat": 16.618638, 
-    "lng": 120.363223
+    "lat": 10.257045,
+    "lng": 123.932310
   },
    {
     "id": 219,
+    "name": "Laguna Hot Springs",
+    "imageUrl": "https://www.skyscanner.com.ph/wp-content/uploads/2018/05/hidden-valley-springs-resort-calauan-laguna.jpg?fit=615,461",
+    "price": 1500,
+    "priceCurrency": "Php",
+    "lat": 14.180116,
+    "lng": 121.183851    
+  },
+   {
+    "id": 22,
     "name": "BOLONG's",
     "imageUrl": "https://ton.twitter.com/1.1/ton/data/dm/1019834697164062725/1019834691149488129/k88qAXmX.jpg:large",
     "price": 10,
