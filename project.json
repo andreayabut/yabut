@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Aqua Planet",
     "imageUrl": "https://i.ytimg.com/vi/JVzTKc32I-w/maxresdefault.jpg",
-    "price": 195,
+    "price": 196,
     "priceCurrency": "KM",
     "lat": 15.187456,
     "lng": 120.499217
@@ -139,8 +139,8 @@
     "id": 221,
     "name": "BOLONG's",
     "imageUrl": "https://ton.twitter.com/1.1/ton/data/dm/1019834697164062725/1019834691149488129/k88qAXmX.jpg:large",
-    "price": 10,
-    "priceCurrency": "Php",
+    "price": 0,
+    "priceCurrency": "KM",
     "lat": 16.681888,
     "lng": 120.340241
   }
