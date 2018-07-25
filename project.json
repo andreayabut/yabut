@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Amanpulo",
     "imageUrl": "http://www.miamishoot.com/wp-content/uploads/2014/07/RS132_Amanpulo-Swimming-Pool-Night-720x375.jpg",
-    "price": 20000,
-    "priceCurrency": "Php",
+    "price": 959,
+    "priceCurrency": "KM",
     "lat": 11.353009,
     "lng": 120.731269
     
@@ -22,8 +22,8 @@
     "id": 201,
     "name": "Sunflower Maze",
     "imageUrl": "http://bluedreamer27.com/wp-content/uploads/2017/06/34138295740_703c84397a_ot-1.jpg",
-    "price": 550,
-    "priceCurrency": "Php",
+    "price": 114,
+    "priceCurrency": "KM",
     "lat": 15.973622,
     "lng": 120.757972
   },
@@ -31,8 +31,8 @@
     "id": 205,
     "name": "Intramuros",
     "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/manila/manila-intramuros/allParagraphs/BucketComponent/ListingContainer/03/image/manila-cathedral-night.jpg",
-    "price": 350,
-    "priceCurrency": "Php",
+    "price": 278,
+    "priceCurrency": "KM",
     "lat": 14.590005,
     "lng": 120.974675
   },
@@ -40,8 +40,8 @@
     "id": 210,
     "name": "The Dessert Musuem",
     "imageUrl": "https://i0.wp.com/advenshar.com/wp-content/uploads/2017/11/dessert-museum-e1518446709383.jpg?fit=2000%2C1333&ssl=1",
-    "price": 1600,
-    "priceCurrency": "Php",
+    "price": 285,
+    "priceCurrency": "KM",
     "lat": 14.531416,
     "lng": 120.980683
   },
@@ -49,8 +49,8 @@
     "id": 211,
     "name": "Zoobic Safari",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/20943.jpg",
-    "price": 780,
-    "priceCurrency": "Php",
+    "price": 270,
+    "priceCurrency": "KM",
     "lat": 14.750949,
     "lng": 120.266845
   },
