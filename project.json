@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Amanpulo",
     "imageUrl": "http://www.miamishoot.com/wp-content/uploads/2014/07/RS132_Amanpulo-Swimming-Pool-Night-720x375.jpg",
-    "price": 20,000,
+    "price": 20000,
     "priceCurrency": "Php",
     "lat": 11.353009,
     "lng": 120.731269
@@ -40,7 +40,7 @@
     "id": 210,
     "name": "The Dessert Musuem",
     "imageUrl": "https://i0.wp.com/advenshar.com/wp-content/uploads/2017/11/dessert-museum-e1518446709383.jpg?fit=2000%2C1333&ssl=1",
-    "price": 1,600,
+    "price": 1600,
     "priceCurrency": "Php",
     "lat": 14.531416,
     "lng": 120.980683
