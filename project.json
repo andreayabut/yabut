@@ -1,67 +1,67 @@
 [
 {
     "id": 145,
-    "name": "ElYu Surf Town",
-    "imageUrl": "https://jethrosalamo.files.wordpress.com/2018/02/img_3997.jpg?w=816",
-    "price": 15,
+    "name": "Aqua Planet",
+    "imageUrl": "https://i.ytimg.com/vi/JVzTKc32I-w/maxresdefault.jpg",
+    "price": 450,
     "priceCurrency": "Php",
-    "lat": 16.657892,
-    "lng": 120.320865
+    "lat": 15.187456,
+    "lng": 120.499217
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/TangadanFalls_00.jpg",
-    "price": 35,
+    "name": "Amanpulo",
+    "imageUrl": "http://www.miamishoot.com/wp-content/uploads/2014/07/RS132_Amanpulo-Swimming-Pool-Night-720x375.jpg",
+    "price": 20,000,
     "priceCurrency": "Php",
-    "lat": 16.643866,
-    "lng": 120.448737
+    "lat": 11.353009,
+    "lng": 120.731269
+    
   },
   {
     "id": 201,
-    "name": "Pebble Beach",
-    "imageUrl": "http://tupanggala.com/wp-content/uploads/2014/08/LunaBeach02.jpg",
-    "price": 25,
+    "name": "Sunflower Maze",
+    "imageUrl": "http://bluedreamer27.com/wp-content/uploads/2017/06/34138295740_703c84397a_ot-1.jpg",
+    "price": 550,
     "priceCurrency": "Php",
-    "lat": 16.839470,
-    "lng": 120.338160
+    "lat": 15.973622,
+    "lng": 120.757972
   },
   {
     "id": 205,
-    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
-    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_luna_church_betty_tianco.jpg",
-    "price": 30,
+    "name": "Intramuros",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/manila/manila-intramuros/allParagraphs/BucketComponent/ListingContainer/03/image/manila-cathedral-night.jpg",
+    "price": 350,
     "priceCurrency": "Php",
-    "lat": 16.853622,
-    "lng": 120.376583
-     
+    "lat": 14.590005,
+    "lng": 120.974675
   },
   {
     "id": 210,
-    "name": "Immuki Island",
-    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
-    "price": 30,
+    "name": "The Dessert Musuem",
+    "imageUrl": "https://i0.wp.com/advenshar.com/wp-content/uploads/2017/11/dessert-museum-e1518446709383.jpg?fit=2000%2C1333&ssl=1",
+    "price": 1,600,
     "priceCurrency": "Php",
-    "lat": 16.803158,
-    "lng": 120.325490
+    "lat": 14.531416,
+    "lng": 120.980683
   },
   {
     "id": 211,
-    "name": "El Union",
-    "imageUrl": "http://www.weekendsidetrip.com/wp-content/uploads/2016/11/1478164962927-800x445.jpg",
-    "price": 15,
+    "name": "Zoobic Safari",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/20943.jpg",
+    "price": 780,
     "priceCurrency": "Php",
-    "lat": 16.659886,
-    "lng": 120.322376
+    "lat": 14.750949,
+    "lng": 120.266845
   },
    {
     "id": 212,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
-    "price": 50,
+    "name": "Bangui Windmills",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2010/08/Ilocos-Windmills.jpg",
+    "price": 689,
     "priceCurrency": "Php",
-    "lat": 16.609236,
-    "lng": 120.286314
+    "lat": 18.528876,
+    "lng": 120.718110
   },
    {
     "id": 213,
