@@ -126,8 +126,17 @@
     "lat": 14.180116,
     "lng": 121.183851    
   },
+    {
+    "id": 220,
+    "name": "Bonifacio Global City",
+    "imageUrl": "http://www.myproperty.ph/uploads/articles/BGC_buildings3.jpg",
+    "price": 1050,
+    "priceCurrency": "Php",
+    "lat": 14.541782,
+    "lng": 121.050213
+  },
    {
-    "id": 22,
+    "id": 221,
     "name": "BOLONG's",
     "imageUrl": "https://ton.twitter.com/1.1/ton/data/dm/1019834697164062725/1019834691149488129/k88qAXmX.jpg:large",
     "price": 10,
